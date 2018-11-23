@@ -47,6 +47,10 @@ public class Car implements IStreering{
 			// TODO Auto-generated method stub
 			
 		}
+		
+		public void driving()
+		{
+			System.out.println("i am driving");
 
 
 	}
